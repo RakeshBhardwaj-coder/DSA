@@ -5,6 +5,6 @@ All Question for the product based companies.
 
 Input: <br>
 N = 5 <br>
-arr[] = {0 2 1 2 0}
-Output:
-0 0 1 2 2
+arr[] = {0 2 1 2 0} <br>
+Output: <br>
+0 0 1 2 2 <br>
