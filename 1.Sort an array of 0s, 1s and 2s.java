@@ -17,9 +17,9 @@ class Solution
     public static void sort012(int a[], int n)
     {
         // code here 
-        int l=0;
-        int m=0;
-        int h=n-1;
+        int l=0; //low
+        int m=0; //mid
+        int h=n-1; //high
         int temp;
         while(m<=h){
             
